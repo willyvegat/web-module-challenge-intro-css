@@ -115,3 +115,12 @@ nav a {
 .campfire img {
     width: 50%;
 }
+
+.footer-img {
+    background-image: url("assets/footer_img.jpg");
+    height: 50vh;   
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: top center;
+    width: 100%;
+}
