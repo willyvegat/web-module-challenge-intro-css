@@ -21,12 +21,12 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Fork the repository, then clone from your fork.
-- [ ] Go into Canvas and connect your repository by copy-pasting its Github URL into the submission slot.
-- [ ] DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today.
-- [ ] cd into your repository on the command line and use code . to open VS Code.
-- [ ] Download the Live Server extension from the Extensions tab on the left side of your VS Code. After it is done installing, click "Go Live" on the bottom right side of your screen to run your HTML file.
-- [ ] Complete your work making regular commits to the main branch; your submitted URL will always reflect your most recent work.
+- [ x] Fork the repository, then clone from your fork.
+- [ x] Go into Canvas and connect your repository by copy-pasting its Github URL into the submission slot.
+- [ x] DO NOT CREATE A BRANCH. You will be pushing your changes to the main/master today.
+- [ x] cd into your repository on the command line and use code . to open VS Code.
+- [ x] Download the Live Server extension from the Extensions tab on the left side of your VS Code. After it is done installing, click "Go Live" on the bottom right side of your screen to run your HTML file.
+- [ x] Complete your work making regular commits to the main branch; your submitted URL will always reflect your most recent work.
 
 ### Task 2: Minimum Viable Product
 
