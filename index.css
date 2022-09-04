@@ -101,3 +101,17 @@ nav a {
     padding: 2%;
     text-align: center;
 }
+
+.info div {
+    width: 30%;
+    margin: 5% auto;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.campfire img {
+    width: 50%;
+}
