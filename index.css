@@ -67,3 +67,21 @@ nav a {
     background-color: #FFCD69;
     margin-right: 10%;
 }
+
+/*top section*/
+
+.image, .text {
+    display: inline-block;
+}
+
+.image {
+    width: 30%;
+}
+
+.image img {
+    border-radius: 50%;
+}
+
+.text {
+    width: 55%;
+}
